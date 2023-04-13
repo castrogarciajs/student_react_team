@@ -1,6 +1,9 @@
-.padre{
-    margin: 20px 20px;
+
+
+.mainApp{
+    height: 100vh;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+  
 }
