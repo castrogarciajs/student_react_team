@@ -1,5 +1,11 @@
-const App = () => {
-  return <h1>hola</h1>;
-};
+import React from 'react'
 
-export default App;
+function App() {
+  return (
+    <div>
+      <h2>SE CAMBIO DE LA HOZZZZ DESPEDIDO aaa</h2>
+    </div>
+  )
+}
+
+export default App
